@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coastal-epigram-345703",
+  "private_key_id": "2e7c24676f7a9ad8ff957bc641f2acb7ce3d47f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCgImgbagt0j7lL\nBJm+hLMPE4AvanSAiAMOn7m0ZfvKBMNDHKJXL4K6WpCaZ9EWTJ8GUtBDhHRZhHgO\nOIvRLiiUcn8IhPg6U9si1MFiPFpYBGqwUUkKa/JO5w9LEOrdujbEil53mWrKfzOB\n37Rjcc6HToepLNQH7PsmYKRsDGW6U3g/03OtOjCsi8QWtZUTsml/6LUYVb4YvZLL\n0xRSk3rUqHICgBY32oH29O4li3cR3kX0oLZwrlbtSb3fKD7ktK7DyLuKjZo01kzF\nUhLKnaxfidvcJ0vXzxg9cBdSpl1RMnCd2wiV0i45ssutG1uSVSIWG/aYDok60tLv\nsymvTBC/AgMBAAECggEABu8BHlFs0OLkPVj5UI7YXfUUiM5i4FSDUAp0dQOGxSGI\nVDXqMDzmESxDX0bS09SvfLZF6ZZ+Sd361iAhVbEE9XXbsEJpqRo2aSoDJujBagGO\n87bL+H/iDFk5h/Y3OoXfQd/9Onp8bZYtDxjg66li2D2l5sUCd/FikoUpZBBJW1RD\ns6WaEDJQM6M1ky+6gYmwuqijtwbblMkB2opyBy4dadI3TLErQqts17UkA4xFmikO\nAr14MoaQW1Uy+Z51zG/4NxTS9qFUMZEa5CsVMpThfUmVe0kClpHbkOG+vY0Jyjrq\nbK7C+iUdabBq09Wd7idKiPC7/6Efi3hRsjudwfyeyQKBgQDLZDMkFIREENtW3evN\n3wtJ9uhFex2ej/bfDfGeG20SBUZD3LFHEgnuqNE91CmKqFLKUL+tJG/coTL5Bz1R\nhE2on6v4qtkBnEcm1eJTLVE5EqlRKZy0A+w9DmU82icyEMxOD5ccOWaLpiGMkw8i\nekTW9gzzJOf/b4ds6uZX90mj/QKBgQDJjeTHuI141jOcMCkK9pE0+Y6FWyFVi4zB\nrPQVv9AUjhnv8A6+7G+yzvAUsfJnfJTCejdwFUtrTQBHEfJgntJw83PvVsNJdO1p\nXII9WCBy/AIAlxJZE3KOby/vjeXNhilkLaDYZuCIjVPp8jkND0r2F3527BZ22wjG\nWT5AFmZ+awKBgGuWbkL4o1qJ/CyAKZr2EDeo5wbR8EIO70zgSF4VLeXpali9Zf0t\nOpnHLR/imbLiBSFGA45oBtATaS43uSTksluvUr2wSihC7ZRKcXUENMHW8D+hnmXO\n6WkGs2C0GSWvoxLrxkhEyMy4LWj55Xicasu2zfTUIfCJo35m5z/C7G5VAoGAfhoL\nuDUsNhz2H1M2aoiHovg8Bg1VFrt/rjDyaaUfn6ykZ6zu3N76p4m3RYtr2Pll7SMg\nCj0YeaKseMqutWrIyShYMbc76XqBizj4tz6q1qX67rmWHir/skO4Xw2NaH/255lw\nl9QNyQF7LdSBgz09LijW07qz91rk64wsWVZqe88CgYACEx4szdwUj5c3CwbaSAOf\nOmxBrDy6SofCOPnhey360UowvkCYD9YxnwHORlXFPKloDTOypDJxiE0JoKJbXXPn\nE5Q+c++aMX7w6S+fXatC9Qyg/HGpTFhSSU9WK55/M2vMmdeGI0biJnqEwYhqzieA\n7AXmkLgWNXbEeFiAKAuDkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@coastal-epigram-345703.iam.gserviceaccount.com",
+  "client_id": "100466193400402278928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40coastal-epigram-345703.iam.gserviceaccount.com"
+}
