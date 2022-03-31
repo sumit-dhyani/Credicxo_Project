@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 from google.cloud import vision
-credential_path = "C:/Users/Acer/New_Folder/coastal-epigram-345703-2e7c24676f7a.json"
+credential_path = "C:/Users/Acer/New_Folder/coastal-epigram-345703-2e7c24676f7a.json"  #personal token for Google VIsion APi
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = credential_path
 
 def webpage(url):
